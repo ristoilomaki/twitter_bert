@@ -10,4 +10,4 @@ Tärkeimmät tiedostot on finetune_testing.ipynb ja load_saved_model.ipynb. fine
 koulutus (huom. hidas operaatio), ja tallennus, sekä muutama linkki mistä ne setit on revitty. load_saved_model:issa
 mallia on testailtu yksittäisen tekstinpätkän labelointiin.
 
-
+valmiita malleja ei löydy tästä reposta (liian isoja filuja), vaan ne pitää itse ladata ja kouluttaa lokaalisti.
