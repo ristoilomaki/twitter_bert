@@ -1,0 +1,6 @@
+sentiment analysis on tweets with bert
+ -> antivaccination
+ -> something else interesting?
+ -> labeled training data set required (?)
+
+öykkäröijien määrä / kaikki tweettaajat
